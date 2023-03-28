@@ -39,6 +39,8 @@
 ### Description
 #### Netlify Deployed Link :https://astonishing-smakager-1c8cc9.netlify.app/
 
+![](https://github.com/priyaa74/IndiaMart-Clone/blob/master/indiamartAnim.gif)
+
 
   
 
